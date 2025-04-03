@@ -1,0 +1,25 @@
+                                 SpringBoot
+
+Spring framework
+
+what is framework
+It is a semi build Application
+
+Spring frame work  
+
+we can make two application with thw help of Spring frame work  
+
+1.StandAlone/Desktop application
+2.webapplication/Enterprices application
+
+spring is a modular framework
+
+
+Three types of we make application in spring and springboot
+1.maven
+2.springinitlizr
+
+@springBootApplication start ioc
+
+
+
